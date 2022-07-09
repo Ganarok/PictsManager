@@ -53,6 +53,8 @@ cd mobile && npm run android
 
 N'oubliez pas d'installer les packages npm (npm i), de connecter un téléphone à votre ordinateur et de le configurer pour que le Debug USB soit activé.
 
+Enfin, pour que votre appli' mobile arrive à se connecter à vos serveurs en local, il faut que votre appareil mobile soit connecté au même réseau que votre machine. De plus, il faut aller rajouter votre adresse IP au fichier .env.local pour le compléter avec votre IP. (./mobile/.env.mobile)
+
 </p>
 
 ## Technologies utilisées
