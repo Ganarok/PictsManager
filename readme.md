@@ -1,6 +1,6 @@
 # PictsManager
 
-![Logo](https://cdn.discordapp.com/attachments/959024336075898903/992883530013102181/telechargement.png)
+![Logo](https://media.discordapp.net/attachments/1104395130045222933/1104395374191456437/kmeans_output.png)
 
 ## Qu'est-ce que le PictsManager ?
 
